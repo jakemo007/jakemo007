@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakemo007. My full name is Jajati Keshari Maharana.
 - 👀 I’m interested in data science and python development.
-- 🌱 I’m currently learning data science in coursera by ibm. I am working as software engineer at winfo solutions private limited.
+- 🌱 I am working as software engineer at winfo solutions private limited. I have worked on django, flask, rpa, tkinter, pyjab, pandas, robot framework and selenium.
 - 💞️ I’m looking to collaborate on whatsapp.
 - 📫 How to reach me ...
 
